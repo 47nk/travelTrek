@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/travelTrek/static/css/main.1b697d64.css",
+    "main.js": "/travelTrek/static/js/main.1b021733.js",
+    "static/js/787.8056291c.chunk.js": "/travelTrek/static/js/787.8056291c.chunk.js",
+    "static/media/Hotel.mp4": "/travelTrek/static/media/Hotel.e48852c4f2743e6aec29.mp4",
+    "static/media/image1.jpg": "/travelTrek/static/media/image1.3334572e08b6751fb657.jpg",
+    "static/media/image4.png": "/travelTrek/static/media/image4.5e34354be9de92438c4b.png",
+    "static/media/image2.png": "/travelTrek/static/media/image2.300625b887deb8fce86d.png",
+    "static/media/image5.png": "/travelTrek/static/media/image5.43fc4f4ee29aebde0c2d.png",
+    "static/media/logo.svg": "/travelTrek/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/travelTrek/index.html",
+    "main.1b697d64.css.map": "/travelTrek/static/css/main.1b697d64.css.map",
+    "main.1b021733.js.map": "/travelTrek/static/js/main.1b021733.js.map",
+    "787.8056291c.chunk.js.map": "/travelTrek/static/js/787.8056291c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b697d64.css",
+    "static/js/main.1b021733.js"
+  ]
+}
